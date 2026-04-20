@@ -191,28 +191,3 @@ There is no shortage of ride-hailing software vendors in the market. What distin
 If you are building a mobility business that needs to operate reliably, scale without technical friction, and generate revenue from day one, the decision to explore our Uber clone is straightforward. The platform has already been proven in the markets you are entering.
 
 Visit [https://www.elluminatiinc.com/uber-clone/](https://www.elluminatiinc.com/uber-clone/) to book a free demo and see the platform configured for your specific business model, your target market, and your operational requirements — before making any commitment.
-
----
-
-## Frequently Asked Questions
-
-**How long does it take to launch with the Uber clone?**
-The platform can be configured, branded, and deployed in as little as seven days. The timeline depends on the level of customization required and the complexity of your market configuration.
-
-**Can the platform support multiple cities and countries simultaneously?**
-Yes. The super admin panel is built specifically for multi-city and multi-country operations, with consolidated reporting, separate admin accounts per region, and global system controls from a single dashboard.
-
-**Does the platform support both iOS and Android?**
-Both rider and driver apps are available for Android and iOS. The technology stack includes SwiftUI and Swift for iOS, Jetpack Compose and Kotlin for Android, NodeJS and TypeScript for the backend, Angular for the frontend, and MongoDB for the database.
-
-**Can I add new ride types or services after launch?**
-Yes. New ride categories and service types can be added through the admin panel configuration without requiring a platform rebuild.
-
-**What payment methods does the platform support?**
-The platform supports multiple payment gateways and options including in-app wallets, card payments, and cash — configurable per region and per service type.
-
-**Is the platform suitable for a business that currently operates manually?**
-Yes, and it is specifically designed for this transition. The dispatcher panel accepts bookings from phone, SMS, and WhatsApp channels, so you can run both traditional and app-based booking simultaneously while building your app user base.
-
-**What kind of support is provided after launch?**
-Post-launch support includes performance optimization, feature upgrades, scalability enhancements, and growth consultation. Enterprise package clients receive six months of dedicated support and source code ownership.
