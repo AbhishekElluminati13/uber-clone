@@ -191,5 +191,7 @@ There is no shortage of ride-hailing software vendors in the market. What distin
 If you are building a mobility business that needs to operate reliably, scale without technical friction, and generate revenue from day one, the decision to explore our Uber clone is straightforward. The platform has already been proven in the markets you are entering.
 
 Visit [https://www.elluminatiinc.com/uber-clone/](https://www.elluminatiinc.com/uber-clone/) to book a free demo and see the platform configured for your specific business model, your target market, and your operational requirements — before making any commitment.
-Visit [https://www.elluminatiinc.com/uber-clone-app-pricing-details/](https://www.elluminatiinc.com/uber-clone-app-pricing-details/) to check the pricing details.
-Visit [https://www.elluminatiinc.com/eber-taxi/admin-panel/](https://www.elluminatiinc.com/eber-taxi/admin-panel/) to know about all Admin Panel features offered with our solution.
+Visit [https://www.elluminatiinc.com/uber-clone-app-pricing-details/](https://www.elluminatiinc.com/uber-clone-app-pricing-details/) to check the pricing details. 
+Visit [https://www.elluminatiinc.com/eber-taxi/admin-panel/](https://www.elluminatiinc.com/eber-taxi/admin-panel/) to know about all Admin Panel features offered with our solution. 
+Visit [https://www.elluminatiinc.com/eber-taxi/user-app/](https://www.elluminatiinc.com/eber-taxi/user-app/) to know all User app features. 
+Visit [https://www.elluminatiinc.com/eber-taxi/driver-app/](https://www.elluminatiinc.com/eber-taxi/driver-app/)to know all driver app features.
