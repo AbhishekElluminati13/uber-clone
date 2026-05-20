@@ -1,4 +1,4 @@
-# Uber Clone: Launch Your Own AI-Powered Ride-Hailing Business
+# Uber Clone: White Label Taxi Booking App Platform
 
 The ride-hailing industry is no longer the exclusive domain of billion-dollar corporations. Today, entrepreneurs, fleet operators, and regional mobility businesses are launching competitive, fully operational taxi platforms at a fraction of what it cost just five years ago — and the technology making that possible is the Uber clone.
 
